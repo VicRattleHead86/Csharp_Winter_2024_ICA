@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\ICA01\ICA01\bin\Debug\ICA01.exe.config
+C:\Users\USER\OneDrive\Desktop\ICA01\ICA01\bin\Debug\ICA01.exe
+C:\Users\USER\OneDrive\Desktop\ICA01\ICA01\bin\Debug\ICA01.pdb
+C:\Users\USER\OneDrive\Desktop\ICA01\ICA01\obj\Debug\ICA01.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\ICA01\ICA01\obj\Debug\ICA01.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\ICA01\ICA01\obj\Debug\ICA01.exe
+C:\Users\USER\OneDrive\Desktop\ICA01\ICA01\obj\Debug\ICA01.pdb
