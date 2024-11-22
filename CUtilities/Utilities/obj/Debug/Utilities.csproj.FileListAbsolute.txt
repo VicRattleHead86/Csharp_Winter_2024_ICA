@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\CUtilities\Utilities\bin\Debug\Utilities.dll
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\CUtilities\Utilities\bin\Debug\Utilities.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\CUtilities\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\CUtilities\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\CUtilities\Utilities\obj\Debug\Utilities.dll
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\CUtilities\Utilities\obj\Debug\Utilities.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\CUtilities\Utilities\obj\Debug\Utilities.csproj.CopyComplete
