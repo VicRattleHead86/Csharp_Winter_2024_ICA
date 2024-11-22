@@ -1,0 +1,9 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA12\ICA12\obj\Debug\ICA12.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA12\ICA12\obj\Debug\ICA12.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA12\ICA12\bin\Debug\ICA12.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA12\ICA12\bin\Debug\ICA12.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA12\ICA12\bin\Debug\ICA12.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA12\ICA12\obj\Debug\ICA12.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA12\ICA12\obj\Debug\ICA12.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA12\ICA12\bin\Debug\Utilities.dll
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA12\ICA12\obj\Debug\ICA12.csproj.CopyComplete

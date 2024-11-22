@@ -1,0 +1,7 @@
+C:\Users\huyng\NAIT courses\Fundamental Programming\ICA11 Methods Using ref and out\ICA11 Methods Using ref and out\bin\Debug\ICA11 Methods Using ref and out.exe.config
+C:\Users\huyng\NAIT courses\Fundamental Programming\ICA11 Methods Using ref and out\ICA11 Methods Using ref and out\bin\Debug\ICA11 Methods Using ref and out.exe
+C:\Users\huyng\NAIT courses\Fundamental Programming\ICA11 Methods Using ref and out\ICA11 Methods Using ref and out\bin\Debug\ICA11 Methods Using ref and out.pdb
+C:\Users\huyng\NAIT courses\Fundamental Programming\ICA11 Methods Using ref and out\ICA11 Methods Using ref and out\obj\Debug\ICA11 Methods Using ref and out.csproj.AssemblyReference.cache
+C:\Users\huyng\NAIT courses\Fundamental Programming\ICA11 Methods Using ref and out\ICA11 Methods Using ref and out\obj\Debug\ICA11 Methods Using ref and out.csproj.CoreCompileInputs.cache
+C:\Users\huyng\NAIT courses\Fundamental Programming\ICA11 Methods Using ref and out\ICA11 Methods Using ref and out\obj\Debug\ICA11 Methods Using ref and out.exe
+C:\Users\huyng\NAIT courses\Fundamental Programming\ICA11 Methods Using ref and out\ICA11 Methods Using ref and out\obj\Debug\ICA11 Methods Using ref and out.pdb

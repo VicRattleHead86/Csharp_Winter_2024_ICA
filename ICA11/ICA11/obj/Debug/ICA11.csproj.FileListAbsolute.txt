@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA11\ICA11\bin\Debug\ICA11.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA11\ICA11\bin\Debug\ICA11.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA11\ICA11\bin\Debug\ICA11.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA11\ICA11\obj\Debug\ICA11.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA11\ICA11\obj\Debug\ICA11.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA11\ICA11\obj\Debug\ICA11.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA11\ICA11\obj\Debug\ICA11.pdb
+C:\Users\gpanaligan1\Downloads\ICA11\ICA11\obj\Debug\ICA11.csproj.AssemblyReference.cache
+C:\Users\gpanaligan1\Downloads\ICA11\ICA11\obj\Debug\ICA11.csproj.SuggestedBindingRedirects.cache
+C:\Users\gpanaligan1\Downloads\ICA11\ICA11\obj\Debug\ICA11.csproj.CoreCompileInputs.cache
+C:\Users\gpanaligan1\Downloads\ICA11\ICA11\obj\Debug\ICA11.exe
+C:\Users\gpanaligan1\Downloads\ICA11\ICA11\obj\Debug\ICA11.pdb
+C:\Users\gpanaligan1\Downloads\ICA11\ICA11\bin\Debug\ICA11.exe.config
+C:\Users\gpanaligan1\Downloads\ICA11\ICA11\bin\Debug\ICA11.exe
+C:\Users\gpanaligan1\Downloads\ICA11\ICA11\bin\Debug\ICA11.pdb
