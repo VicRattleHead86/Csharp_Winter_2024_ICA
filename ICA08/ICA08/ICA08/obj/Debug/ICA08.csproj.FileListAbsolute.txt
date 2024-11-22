@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA08\ICA08\ICA08\bin\Debug\ICA08.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA08\ICA08\ICA08\bin\Debug\ICA08.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA08\ICA08\ICA08\bin\Debug\ICA08.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA08\ICA08\ICA08\obj\Debug\ICA08.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA08\ICA08\ICA08\obj\Debug\ICA08.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA08\ICA08\ICA08\obj\Debug\ICA08.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA08\ICA08\ICA08\obj\Debug\ICA08.pdb
