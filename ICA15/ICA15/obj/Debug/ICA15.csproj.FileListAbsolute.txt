@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA15\ICA15\bin\Debug\ICA15.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA15\ICA15\bin\Debug\ICA15.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA15\ICA15\bin\Debug\ICA15.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA15\ICA15\obj\Debug\ICA15.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA15\ICA15\obj\Debug\ICA15.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA15\ICA15\obj\Debug\ICA15.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA15\ICA15\obj\Debug\ICA15.pdb

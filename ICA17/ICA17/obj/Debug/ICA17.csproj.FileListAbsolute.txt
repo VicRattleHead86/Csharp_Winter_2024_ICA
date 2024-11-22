@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA17\ICA17\bin\Debug\ICA17.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA17\ICA17\bin\Debug\ICA17.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA17\ICA17\bin\Debug\ICA17.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA17\ICA17\obj\Debug\ICA17.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA17\ICA17\obj\Debug\ICA17.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA17\ICA17\obj\Debug\ICA17.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA17\ICA17\obj\Debug\ICA17.pdb

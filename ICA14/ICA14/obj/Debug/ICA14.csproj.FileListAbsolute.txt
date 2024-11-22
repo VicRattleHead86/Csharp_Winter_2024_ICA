@@ -1,0 +1,9 @@
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA14\ICA14\bin\Debug\ICA14.exe.config
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA14\ICA14\bin\Debug\ICA14.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA14\ICA14\bin\Debug\ICA14.pdb
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA14\ICA14\bin\Debug\GDIDrawer.dll
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA14\ICA14\obj\Debug\ICA14.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA14\ICA14\obj\Debug\ICA14.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA14\ICA14\obj\Debug\ICA14.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA14\ICA14\obj\Debug\ICA14.exe
+C:\Users\USER\OneDrive\Documents\Winter_2024\CMPE 1300\Assignment\ICA14\ICA14\obj\Debug\ICA14.pdb
